@@ -47,6 +47,7 @@ How to install  ??
 + npm run build
 + push and deploy it
 
+----------------------------------------
 
 👉 test drive before download [https://dxretail.web.app/](https://dxretail.web.app/)
 
