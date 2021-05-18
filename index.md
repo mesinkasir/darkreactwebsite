@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Dark Mode React website template themes source code free download
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/darkreactwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 🧛🏻 The darknes draculis 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Develope using react and halfmoon with dark mode
 
-### Markdown
+👉 test drive before download [https://dxretail.web.app/](https://dxretail.web.app/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+documentation and live source code : [https://www.hockeycomputindo.com/2021/02/react-dark-mode-website-template-free.html](https://www.hockeycomputindo.com/2021/02/react-dark-mode-website-template-free.html) 👈
 
-```markdown
-Syntax highlighted code block
+🤙 Video demo [https://youtu.be/4KejGXgBeVg](https://youtu.be/4KejGXgBeVg)
 
-# Header 1
-## Header 2
-### Header 3
+-----------------------------------------------------
+A display
 
-- Bulleted
-- List
+![react website themes template free download](https://1.bp.blogspot.com/-hGDFbfhw0aw/YDUgth5cLhI/AAAAAAAANEU/u9RtvMEoRoETA4w88ee17wnT8GQQdAgnwCLcBGAsYHQ/s1384/free%2Breact%2Bdark%2Bmode%2Bwebsite%2Btemplate%2Bthemes%2Bsource%2Bcode%2B%25281%2529.png)
 
-1. Numbered
-2. List
+Home page area
 
-**Bold** and _Italic_ and `Code` text
+![react website themes template free download](https://1.bp.blogspot.com/-M0qaAouXfCM/YDUgvQeiqmI/AAAAAAAANEg/NoVSy2hliKw7T4WixdE4yjeaFGOzHRragCLcBGAsYHQ/s1364/free%2Breact%2Bdark%2Bmode%2Bwebsite%2Btemplate%2Bthemes%2Bsource%2Bcode%2B%25286%2529.png)
 
-[Link](url) and ![Image](src)
-```
+Get started page
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![react website themes template free download](https://1.bp.blogspot.com/-l3P4lUSszlU/YDUgupahGAI/AAAAAAAANEc/ptq2-pIuiLwIHd816_qd272Gya_M2sPSACLcBGAsYHQ/s1364/free%2Breact%2Bdark%2Bmode%2Bwebsite%2Btemplate%2Bthemes%2Bsource%2Bcode%2B%25284%2529.png)
 
-### Jekyll Themes
+Video media player page
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/darkreactwebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![react website themes template free download](https://1.bp.blogspot.com/-cM6aGJHpwGE/YDUgvGqbREI/AAAAAAAANEk/zJ5Vuo-GtCsGJgl6tuCkDs6-exA9dtGBgCLcBGAsYHQ/s2542/free%2Breact%2Bdark%2Bmode%2Bwebsite%2Btemplate%2Bthemes%2Bsource%2Bcode%2B%25285%2529.png)
 
-### Support or Contact
+Gallery Page
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![react website themes template free download](https://1.bp.blogspot.com/-HFLoPZr1W88/YDUgtnmoYII/AAAAAAAANEQ/UO_nVY0gm4846mhKVdJNb9T7MM4Hnl_jQCLcBGAsYHQ/s1511/free%2Breact%2Bdark%2Bmode%2Bwebsite%2Btemplate%2Bthemes%2Bsource%2Bcode%2B%25283%2529.png)
+
+Product page
+
+-------------------------------------------------------------------------------
+
+How to install  ?? 
+
++ Node NPM
++ React
++ This Source code
++ npm install
++ npm start
++ localhost:3000
++ edit and change code
++ npm run build
++ push and deploy it
+
+----------------------------------------
+
+👉 test drive before download [https://dxretail.web.app/](https://dxretail.web.app/)
+
+documentation and live source code : [https://www.hockeycomputindo.com/2021/02/react-dark-mode-website-template-free.html](https://www.hockeycomputindo.com/2021/02/react-dark-mode-website-template-free.html) 👈
+
+🤙 Video demo [https://youtu.be/4KejGXgBeVg](https://youtu.be/4KejGXgBeVg)
